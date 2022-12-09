@@ -91,7 +91,7 @@ wait(0.1)
 wait(6)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(pos)
 else
-    game:GetService("Players").bifungiji.PlayerGui.uiMain.protected:Destroy()
+
     wait(0.5)
  _G.Invisible = true  
  TheUser = game:GetService("Players").LocalPlayer.Name
